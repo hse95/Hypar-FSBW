@@ -1,6 +1,6 @@
 ### Designation Guide
 
-This section provides a detailed explanation of the test designations:
+Clarification on file names:
 
 1. **Hydrostatic**  
    Calculates the hydrostatic force on the structure without the presence of any wave.

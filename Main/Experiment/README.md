@@ -14,4 +14,4 @@ This section provides a detailed explanation of the test designations:
    - Half immersion (N means negative where bottom of FSBW is below the water level) with draft of 75 mm or 7.5 cm.
 
 4. **WG_Rn025_T1_N75**  
-   Wave gauge readings collected during the same test for \(R_n = 0.25\), \(T = 1.04 \, \text{s}\), and \(7.5 \, \text{cm}\) draft.
+   Wave gauge readings collected during the same test for $(R_n = 0.25\$, $T = 1.04 \, \text{s}\$, and \(7.5 \, \text{cm}\) draft.

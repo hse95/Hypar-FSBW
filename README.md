@@ -2,7 +2,7 @@
 
 This repository contains the data, files, and scripts associated with the research paper:  
 **Hyperbolic Paraboloid Free-Surface Breakwaters: Hydrodynamic Study and Structural Evaluation**  
-**Authors:** Hamid ElDarwich, Gaoyuan Wu, Krisna A. Pawitan, and Maria Garlock  
+**Authors:** Sam Smith, Gaoyuan Wu, Krisna A. Pawitan, and Maria Garlock  
 **Institution:** Department of Civil and Environmental Engineering, Princeton University, Princeton, NJ, USA  
 
 
